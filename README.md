@@ -17,9 +17,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-In the HTML file and CSS stylesheet, you'll find green comments that'll describe the changes made.
+In the HTML file and CSS stylesheet above refactored sections, you'll see comments that'll describe the changes made.
 
-Link to deployed application: 
+Link to deployed application: https://tonyt504.github.io/horiseon-challenge/
 
 Screenshot(s):
 ![Header+NAV](./assets/images/horiseon%20-%20header%20and%20nav%20bar.png)
